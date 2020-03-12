@@ -3,10 +3,10 @@
 
 ------------------------------------------------------------------------</p>
 
-<h2>PROJECT TITLE: Chapter 13</h2>
+<h2>PROJECT TITLE: Lesson 1.5</h2>
 <hr>
 
-# Lesson 1.5
+# Chapter 13
 <li>PURPOSE OF PROJECT: Describe some of the files                             </li>
 <li>VERSION or DATE: 3/5/2020                                </li>
 <li>HOW TO START THIS PROJECT: Open the IntelliJ and run the code                     </li>
@@ -26,11 +26,10 @@ account that it finds.<br>
 <br>
 <p>Try catch statements are important in making sure that the code doesn't stop because of exception,<br>
 with try being the code that is ran and catch being the element that finds exceptions in the code.
-</p>
 <br>
 Image of the accounts : <br>
 <img src="People.PNG" alt="Screenshot of the people"><br>
-<img src="Person.PNG" alt="Screenshot of the person">
+<img src="Person.PNG" alt="Screenshot of the person"><br/>
 <hr>
 <p>
 # Lesson 1.2.1
@@ -38,5 +37,15 @@ Image of the accounts : <br>
 <li>VERSION or DATE: 3/5/2020                                </li>
 <li>HOW TO START THIS PROJECT: Open the IntelliJ and run the code                     </li>
 <li>USER INSTRUCTIONS: Do the thing and do it well                              </li>
+<br/>
+#3. In MediaFile, there is Book, Movie, Song, MySong, and MediaLib.<br/>
+#29. I believe a for loop would be better because it has a set number of iterations.<br/>
+First loop : <br/>
+<img src="Looping1.PNG" alt="First loop"><br>
+Second loop : <br/>
+<img src="Looping2.PNG" alt="Second loop"><br/>
+**Conclusion Questions :**<br/>
+#1. A for loop would be good at finding certain values in a list, while a while loop would be better
+ for terminating given a user input.<br/>
+#2. The release of devices with larger screen sizes prompted the creation of the Android Honeycomb.<br/>
 
-<p><font size ="20" color="FFBBBB"><b>How the Code Works </b></font></p>
